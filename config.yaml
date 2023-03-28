@@ -1,0 +1,8 @@
+---
+inventory:
+    plugin: SimpleInventory
+    options:
+        host_file: "~/scripts/hosts.yaml"
+        group_file: "~/scripts/groups.yaml"
+        defaults_file: "~/scripts/defaults.yaml"
+

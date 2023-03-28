@@ -1,0 +1,552 @@
+
+---
+ BSH_ADMIN_BASE_SWITCH_9300:
+    hostname: 10.202.32.19
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+        - switch
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_CC_2ND_SOUNDROOM:
+    hostname: 10.202.32.18
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SERVER_A:
+    hostname: 10.202.32.22
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+ 
+ BSH_ADMIN_SERVER_E:
+    hostname: 10.202.32.23
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+ 
+ BSH_ADMIN_SERVER_D:
+    hostname: 10.202.32.24
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SERVER_C:
+    hostname: 10.202.32.25
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+ 
+ BSH_ADMIN_SERVER_B:
+    hostname: 10.202.32.26
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+ 
+ BSH_ADMIN_SERVER_F:
+    hostname: 10.202.32.27
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+ 
+ BSH_ADMIN_SERVER_G:
+    hostname: 10.202.32.28
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+ 
+ BSH_ADMIN_ELECTRICAL:
+    hostname: 10.202.32.29
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_17THFLR_BASE:
+    hostname: 10.202.32.31
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+ 
+ BSH_ADMIN_SERVER_RACK1:
+    hostname: 10.202.32.32
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SERVER_RACK2:
+    hostname: 10.202.32.52
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SYSTEMS_BASE:
+    hostname: 10.127.151.140
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SERVER_RACK3:
+    hostname: 10.202.32.34
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_ELECTRICAL_A:
+    hostname: 10.202.32.35
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_ELECTRICAL_B:
+    hostname: 10.202.32.36
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_FIBER_DISTRO_01:
+    hostname: 10.202.32.17
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_ELECTRICAL_D:
+    hostname: 10.202.32.38
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_ELECTRICAL_E:
+    hostname: 10.202.32.39
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_EXEC_BASE:
+    hostname: 10.202.32.40
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SRV_OFFICE:
+    hostname: 10.202.32.41
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+     
+ BSH_ADMIN_STOCK_01:
+    hostname: 10.202.32.42
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_EXEC_C:
+    hostname: 10.202.32.43
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_EXEC_G:
+    hostname: 10.202.32.44
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_EXEC_A:
+    hostname: 10.202.32.45
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_EXEC_B:
+    hostname: 10.202.32.46
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_EXEC_D:
+    hostname: 10.202.32.47
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_EXEC_E:
+    hostname: 10.202.32.48
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_EXEC_F:
+    hostname: 10.202.32.49
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SALES_BASE:
+    hostname: 10.202.32.50
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SALES_A:
+    hostname: 10.202.32.51
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_8THFLOOR_BASE:
+    hostname: 10.202.32.53
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_CLUBHOUSE_BASE:
+    hostname: 10.202.32.55
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_CLUBHOUSE_A:
+    hostname: 10.202.32.56
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SPA_BASE:
+    hostname: 10.202.32.57
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SPA_A:
+    hostname: 10.202.32.58
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SPA_B:
+    hostname: 10.202.32.59
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SPA_C:
+    hostname: 10.202.32.60
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_RUNDLE_BASE:
+    hostname: 10.202.32.61
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_RUNDLE_A:
+    hostname: 10.202.32.62
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_TC_A:
+    hostname: 10.202.32.63
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_FGOLD_BASE:
+    hostname: 10.202.32.64
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_BANQUETS_BASE:
+    hostname: 10.202.32.65
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_BANQUETS_A:
+    hostname: 10.202.32.67
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_SPASNDRM_BASE:
+    hostname: 10.202.32.72
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_GROUNDS:
+    hostname: 10.202.32.75
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_GOLF_MAINTENANCE:
+    hostname: 10.202.32.25
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_WALDHAUS:
+    hostname: 10.202.32.81
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
+
+ BSH_ADMIN_CC_BASE:
+    hostname: 10.202.32.87
+    platform: "cisco_ios"
+    groups:
+        - cisco_group
+    data:
+        vendor: Cisco
+        domain: myfairmont.com
+        country: canada
+        hotel_code: bsh
