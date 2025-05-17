@@ -36,9 +36,9 @@ def snmp_v3_query(host, user, auth_key, priv_key, oid):
 
 # SNMP task
 def fetch_snmp_data(task):
-    snmp_user = "Accor-Switch-SNMP-User"
-    auth_key = "#RsZ5+ktY%tw9]o*t7%T!VD%JnT"
-    priv_key = "$96D5&+ktY%tw9]o(t7%T!JD%Jn"
+    snmp_user = "User"
+    auth_key = "key1"
+    priv_key = "key2"
     oid = "1.3.6.1.2.1.1.1.0"  # System Description
 
     snmp_result = snmp_v3_query(task.host.hostname, snmp_user, auth_key, priv_key, oid)
